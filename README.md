@@ -9,7 +9,7 @@
 ---
 
 ```
- ██████╗  █████╗ ███╗   ███╗███████╗    ██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ 
+ ██████╗  █████╗ ███╗   ███╗███████╗    ██╗      ██████╗  █████╗ ██████╗ ███████╗██████
 ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
 ██║  ███╗███████║██╔████╔██║█████╗      ██║     ██║   ██║███████║██║  ██║█████╗  ██║  ██║
 ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║     ██║   ██║██╔══██║██║  ██║██╔══╝  ██║  ██║
@@ -25,7 +25,7 @@
 
 
 
-## 🌐 SEND A MESSAGE
+##  SEND A MESSAGE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senura-dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/senura_dev)
