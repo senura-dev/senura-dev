@@ -1,22 +1,51 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Senura Dulsara</h1>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=senura-dev">
+    <img src="https://komarev.com/ghpvc/?username=senura-dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="senura-dev's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:senuradulsaradev@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:0d0221,80:160637,100:2d1069&height=180&section=header&text=NEW+PLAYER+HAS+ENTERED&fontSize=40&fontColor=a78bfa&fontAlignY=55&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1500&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=%3E_LOADING+PLAYER+DATA...;%3E_USERNAME+%3A+senura-dev+%E2%9C%85;%3E_EXPERIENCE+%3A+0+XP+(gotta+start+somewhere);%3E_COFFEE+LEVEL+%3A+%E2%98%95%E2%98%95%E2%98%95+MAXIMUM;%3E_FEAR+%3A+MERGE+CONFLICTS;%3E_SUPERPOWER+%3A+GOOGLING+THINGS+REALLY+FAST;%3E_STATUS+%3A+READY+TO+BREAK+PRODUCTION+%F0%9F%9A%80" alt="Typing SVG"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
-<div align="center">
-
-
-
-##  SEND A MESSAGE
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senura-dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/senura_dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/senura)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@senura.dev)
-
-<br/>
 
