@@ -16,7 +16,7 @@
 ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ███████╗╚██████╔╝██║  ██║██████╔╝███████╗██████╔╝
  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═════╝ 
                                                           
-                          ⚔️  SENURA   ·   senura-dev  ⚔️
+                                  ⚔️  SENURA  ⚔️
 ```
 
 ---
@@ -34,10 +34,3 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Thanks+for+reading+my+README+👾;You're+a+real+one.;Now+go+touch+some+grass.;Just+kidding+—+write+more+code.;See+you+in+the+next+commit+🚀" alt="Footer Typing"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:2d1069,50:160637,100:000000&height=150&section=footer&reversal=true" width="100%"/>
-
-</div>
